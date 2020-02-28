@@ -10,3 +10,5 @@
   * Login
   * View Accounts
   * Delete User
+
+##### Credit for examples go to tomchristie and jamescooke
