@@ -5,6 +5,6 @@
 #### This uses the GET method and the purpose serves for when a user wants to create or manage their account
   * Create a user
   * Login
-  * View Accounts
+  * Update Account
   * Delete User
 ##### Credit for examples go to tomchristie and jamescooke
